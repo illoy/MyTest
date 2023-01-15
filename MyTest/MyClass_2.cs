@@ -8,5 +8,6 @@ namespace MyTest
 {
     internal class MyClass_2
     {
+        //Space to code
     }
 }
