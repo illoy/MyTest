@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MyTest
 {
-	//My Class1
+	//My Class1 //
     internal class MyClass_1
     {
     }
