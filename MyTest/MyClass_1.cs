@@ -13,5 +13,10 @@ namespace MyTest
         {
             Console.WriteLine("Method 2");
         }
+        
+        public void Method1()
+        {
+            Console.WriteLine("Method1");
+        }
     }
 }
