@@ -9,6 +9,11 @@ namespace MyTest
 	//My Class1 //
     internal class MyClass_1
     {
+        public void Method2()
+        {
+            Console.WriteLine("Method 2");
+        }
+        
         public void Method1()
         {
             Console.WriteLine("Method1");
